@@ -1,4 +1,4 @@
-##Data Scientist
+#Data Scientist
 
 ##### Technical Skills: Python, Machine Learning, SQL, Tableau, Microsoft Excel, Microsoft Word, Microsoft PowerPoint, AutoCAD 2D, CATIA 3D, C, C++ 
 
