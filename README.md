@@ -12,17 +12,16 @@
 ## Education
 
 ### Data Analytics Bootcamp (General Assembly)
-**Excelerate Asia Khazanah Youth Development** (Jun 2024)
+- **Excelerate Asia Khazanah Youth Development** (Jun 2024)
 
 ### Data Science Bootcamp (Adnexio Edu)
-**Adnexio Edu Bootcamp Program** (January 2023)  
+- **Adnexio Edu Bootcamp Program** (January 2023)
 
 ### University Tenaga Nasional
-**Bachelor of Electrical Power Engineering** (September 2019) 
+- **Bachelor of Electrical Power Engineering** (September 2019)
 
 ### University Kuala Lumpur British Malaysian Institute
-**Diploma of Engineering Technology in Electrical and Electronics** (December 2015)
-
+- **Diploma of Engineering Technology in Electrical and Electronics** (December 2015)
 
 ## Work Experience
 
