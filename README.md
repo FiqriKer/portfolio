@@ -71,3 +71,11 @@
 - Developed interactive visualizations to highlight key information such as the top 3 highest-paid athletes, the sport with the highest total earnings, and the sport with the most athletes on the list.
 - Facilitated a deeper understanding of on-field and off-field earnings, helping viewers explore and interpret the financial landscape of various sports and athletes' income.
 
+### Certificates
+
+- Data Science Bootcamp
+  [Link](https://drive.google.com/file/d/125dtZNBMGuAiXnjjWdRponFtZKx3XU5h/view?usp=sharing)
+- SQL Certificate
+  [Link](https://drive.google.com/file/d/1M0cI5j88SMzYRU_kn11YzXv9KRrCFD3N/view?usp=sharing)
+- Tableau Certificate
+  [Link](https://drive.google.com/file/d/1qfqgMzECiE9ZNNlzyGHJ87H2OZqlRnuH/view)
