@@ -74,8 +74,8 @@
 ### Certificates
 
 - Data Science Bootcamp
-  [Link](https://drive.google.com/file/d/125dtZNBMGuAiXnjjWdRponFtZKx3XU5h/view?usp=sharing)
+  ([Link](https://drive.google.com/file/d/125dtZNBMGuAiXnjjWdRponFtZKx3XU5h/view?usp=sharing))
 - SQL Certificate
-  [Link](https://drive.google.com/file/d/1M0cI5j88SMzYRU_kn11YzXv9KRrCFD3N/view?usp=sharing)
+  ([Link](https://drive.google.com/file/d/1M0cI5j88SMzYRU_kn11YzXv9KRrCFD3N/view?usp=sharing))
 - Tableau Certificate
-  [Link](https://drive.google.com/file/d/1qfqgMzECiE9ZNNlzyGHJ87H2OZqlRnuH/view)
+  ([Link](https://drive.google.com/file/d/1qfqgMzECiE9ZNNlzyGHJ87H2OZqlRnuH/view))
